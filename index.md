@@ -15,16 +15,16 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 
 ## <Touko Salonen> Headers:
-#Header one
-##Header two
-###Header three
-####Header four
-#####Header five
-######Header six
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
 
 **Headers and Italics**
 
-####Colombian Symbolism in One Hundred Years of Solitude
+#### Colombian Symbolism in One Hundred Years of Solitude
 
 Here's some words about the book _One Hundred Years_....
 
